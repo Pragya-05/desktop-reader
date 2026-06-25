@@ -14,3 +14,7 @@ dist/
 .idea/
 
 .env
+
+
+*.mp3
+temp/
